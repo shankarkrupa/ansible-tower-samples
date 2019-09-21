@@ -1,4 +1,4 @@
 - name: Hello World Sample
   hosts: all
   tasks:
-failing script on purpose...!!!
+false
